@@ -14,6 +14,8 @@ namespace Arrays
             b.addConto(c1);
             b.addConto(c2);
 
+            int number = -10;
+
         }
         static void DichiareArray()
         {
